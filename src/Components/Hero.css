@@ -1,0 +1,11 @@
+.hero-section {
+    z-index: 1;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    /* position: absolute; */
+    /* padding-top: 36.25%; */
+    /* Height is 16:9 aspect ratio (9/16 = 0.5625) */
+
+}

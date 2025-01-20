@@ -1,0 +1,17 @@
+.team-info-section {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.team-info-section h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.team-info-section p {
+    font-size: 1rem;
+    color: #6c757d;
+}

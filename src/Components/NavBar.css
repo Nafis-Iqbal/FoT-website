@@ -1,0 +1,6 @@
+.navBar-section {
+    position: absolute;
+    z-index: 2;
+    top: 0px;
+    background-color: rgb(220, 220, 220, .5);
+}
